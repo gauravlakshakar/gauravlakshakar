@@ -15,5 +15,4 @@
 
 ## 🌐 Connect with Me
 - 📧 [Email](mailto:gauravlakshakar581@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gauravlakshakar)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-lakshakar/)
