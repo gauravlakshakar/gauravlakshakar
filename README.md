@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Gaurav Lakshakar!
 
-<!--
-**gauravlakshakar/gauravlakshakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 BSc in Mathematics | Data Analyst | Python Enthusiast
+- 📊 Specializing in EDA, data visualization, and insightful analysis.
+- 🌱 Always learning new tools and technologies.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Programming Languages**: Python
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Streamlit
+- **Specializations**: EDA, Data Cleaning, Visualization, and Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [**Solar Power Dashboard**](#): Interactive data analysis and visualization using Streamlit.
+- [**Spotify Data Analytics Dashboard**](#): Interactive data analysis and visualization using .
+
+## 🌐 Connect with Me
+- 📧 [Email](mailto:gauravlakshakar581@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gauravlakshakar)
+
