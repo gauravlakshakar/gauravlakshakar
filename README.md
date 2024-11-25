@@ -6,16 +6,16 @@ I am passionate about analyzing data, uncovering insights, and building data-dri
 - 🌱 Always learning new tools and technologies.
 
 ### 🌟 **Tech Stack**  
-- **Programming**: Python, R, SQL  
+- **Programming**: Python, SQL  
 - **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Data Tools**: Excel, Tableau, Power BI, Jupyter Notebook  
-- **Database**: MySQL, PostgreSQL, MongoDB  
+- **Data Tools**: Excel, Power BI, Jupyter Notebook  
+- **Database**: MySQL  
 - **Cloud**: AWS (Basics)
 - 
 ## 📂 Featured Projects
 - [**Solar Power Dashboard**](#): Interactive data analysis and visualization using Streamlit.
 - [**Spotify Data Analytics Dashboard**](#): Interactive data analysis and visualization using PowerBI.
-- **Sales Performance Dashboard**  
+- [**Sales Performance Dashboard**](#): 
    - *Tools*: PowerBI,SQL,Python  
    - *Description*: Built an interactive dashboard to track sales trends and regional performance.
 
