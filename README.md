@@ -5,7 +5,7 @@
   <h3 style="color: #ffffff;">🏆 Data Intelligence Engineer 🪶</h3>
 </div>
 <div align="center">
-        <img src="https://user-images.githubusercontent.com/101393850/203085257-35f27fde-d256-4b2d-b65c-8458a73cb026.gif"  />  
+    <img src="https://user-images.githubusercontent.com/101393850/203085257-35f27fde-d256-4b2d-b65c-8458a73cb026.gif" />  
 </div>  
 <br/>  
 
@@ -13,13 +13,13 @@
 <div style="padding: 20px; background-color: #121212; border-radius: 15px;">
   <h2 style="color: #4caf50;"></h2>
   <p style="color: #ffffff;">
-    🗺️ <b>Data Intelligence Engineer</b> focused on developing data-driven solutions through data analytics, business intelligence, workflow automation, and intelligent applications[cite: 1]. Experienced in <b>Python</b>🐍, <b>SQL</b>, operational reporting, and interactive dashboard development[cite: 1]. Interested in building scalable data pipelines and integrating <b>Machine Learning</b>🤖 and <b>AI</b> technologies to transform raw data🪻 into actionable business insights🍂[cite: 1].
+    🗺️ <b>Data Intelligence Engineer</b> focused on developing data-driven solutions through data analytics, business intelligence, workflow automation, and intelligent applications. Experienced in <b>Python</b>🐍, <b>SQL</b>, operational reporting, and interactive dashboard development. Interested in building scalable data pipelines and integrating <b>Machine Learning</b>🤖 and <b>AI</b> technologies to transform raw data🪻 into actionable business insights🍂.
   </p>
 </div>
 
 # 💻 Tech Stack & Tools
 
-## 🔧 Programming & Analysis[cite: 1]
+## 🔧 Programming & Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,18 +27,18 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 📊 Business Intelligence & Visualization[cite: 1]
+## 📊 Business Intelligence & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-## 🧑‍💻 Data Engineering & Databases[cite: 1]
+## 🧑‍💻 Data Engineering & Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Parquet](https://img.shields.io/badge/Parquet-E74C3C?style=for-the-badge&logo=apache&logoColor=white)
 
-## 🤖 AI, ML & App Development[cite: 1]
+## 🤖 AI, ML & App Development
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-E97627?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-00979D?style=for-the-badge&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -49,14 +49,14 @@
 # 💼 Professional Experience & Projects
 
 ### 🏢 Experience
-* **MIS Analyst** at *ACN Healthcare RCM Services Pvt. Ltd.* (June 2025 – Present)[cite: 1]
-  * Automated file segregation, report generation, and email distribution using Python, SQL, VBA, and Office Scripts[cite: 1].
-  * Developed automated Excel workflows and interactive reporting applications using Power BI, Streamlit, and Plotly[cite: 1].
+- **MIS Analyst** at *ACN Healthcare RCM Services Pvt. Ltd.* (June 2025 – Present)
+  * Automated file segregation, report generation, and email distribution using Python, SQL, VBA, and Office Scripts.
+  * Developed automated Excel workflows and interactive reporting applications using Power BI, Streamlit, and Plotly.
 
 ### 🚀 Featured Projects
-* **AnyData Analyzer:** Reusable data analysis platform with dynamic filtering using Python, Streamlit, DuckDB, and Parquet[cite: 1].
-* **RandomChat AI:** Cloud-based real-time chat application utilizing ML/LLMs, React, and Node.js[cite: 1].
-* **Automated Web Scraping & Power BI Integration:** Python automated scraping workflows connected to MySQL and Power BI interactive dashboards[cite: 1].
+- **AnyData Analyzer:** Reusable data analysis platform with dynamic filtering using Python, Streamlit, DuckDB, and Parquet.
+- **RandomChat AI:** Cloud-based real-time chat application utilizing ML/LLMs, React, and Node.js.
+- **Automated Web Scraping & Power BI Integration:** Python automated scraping workflows connected to MySQL and Power BI interactive dashboards.
 
 <br/>
 
@@ -77,17 +77,18 @@
 </div>  
 
    
- <div align="center">
+<div align="center">
   <h2>🔥 My GitHub Stats</h2>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravlakshakar&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gauravlakshakar&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravlakshakar&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-  </p>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravLakshakar&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=GauravLakshakar&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravLakshakar&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
   ----
