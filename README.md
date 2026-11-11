@@ -5,7 +5,7 @@
   <h3 style="color: #ffffff;">🏆 Data Intelligence Engineer 🪶</h3>
 </div>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284159-fb47f369-a1b7-4a0b-bc11-a83a0a3ddb44.gif" width="800" alt="Developer at desk working on laptop" />  
+        <img src="https://user-images.githubusercontent.com/101393850/203085257-35f27fde-d256-4b2d-b65c-8458a73cb026.gif"  />  
 </div>  
 <br/>  
 
